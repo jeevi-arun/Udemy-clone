@@ -41,4 +41,4 @@ This is a **responsive Udemy homepage clone**, created using **HTML** and **CSS*
 
 - **HTML5**
 - **CSS3**
-- **Responsive Design** using `flexbox` and `media queries`
+- **Responsive Design** using flex, pseudo class, align items, justify content
