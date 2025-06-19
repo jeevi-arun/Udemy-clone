@@ -1,6 +1,6 @@
 # 🎓 Udemy Clone – Responsive Web Page (HTML & CSS)
 
-This is a **responsive Udemy homepage clone**, created using **HTML** and **CSS**, as part of my frontend development practice. The layout adjusts seamlessly for different screen sizes, ensuring an optimal user experience across devices.
+This is a **responsive Udemy homepage clone**, created using **HTML** and **CSS**, as part of my frontend development practice. The layout adjusts seamlessly for different screen sizes. 
 
 ---
 
